@@ -1,0 +1,23 @@
+{
+  "host": "0.0.0.0",
+  "port": 7070,
+  "torbox_api_key": "",
+  "realdebrid_api_key": "",
+  "alldebrid_api_key": "",
+  "premiumize_api_key": "",
+  "debridlink_api_key": "",
+  "linksnappy_username": "",
+  "linksnappy_password": "",
+  "megadebrid_api_key": "",
+  "deepbrid_token": "",
+  "highway_token": "",
+  "seedr_username": "",
+  "seedr_password": "",
+  "terabox_enabled": true,
+  "pixeldrain_bypass_enabled": true,
+  "get4all_enabled": true,
+  "anythingrip_enabled": true,
+  "deepbrid_free_enabled": true,
+  "highway_free_enabled": true,
+  "ytdlp_enabled": true
+}
