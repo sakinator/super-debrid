@@ -91,3 +91,32 @@ Super Debrid serves as the backend sidecar for **Hostreamio**:
 - **TeraBox / Pixeldrain unthrottling**: Direct stream playback without limits.
 - **Instant Cache Matrix**: Queries all configured debrids to route to whichever provider has the torrent cached fastest.
 - **Batch Resolution**: Enables playlist queues and multi-part media streaming.
+
+---
+
+## ✨ Vibe Coded Philosophy & Manifesto
+
+> *"Code at the speed of thought. Guided by vibes, verified by automated test suites."*
+
+This entire codebase — spanning 34+ cyberlocker resolvers, multi-debrid waterfall routing, instant cloud cache matrix checking, Range-seeking reverse proxying, and the reactive glassmorphism Web dashboard — is **100% Vibe Coded**.
+
+### What does "Vibe Coded" mean here?
+- **AI-Native Architecture**: Conceived, architected, debugged, and refined through symbiotic interaction between human vision and autonomous AI coding agents (DeepMind Antigravity / Gemini / Claude).
+- **Rapid Self-Healing**: Automated QA loops, subagent audits, real-time Python/FastAPI endpoint validation, and parallel stress-testing catch edge cases before they ship.
+- **Vibe Velocity**: Shipped iteratively at extreme velocity without bureaucratic technical debt — continuously evolving as streaming protocols, debrid APIs, hosters, and community conventions update.
+- **As-Is Provision**: As with all vibe-coded software, it is offered purely as open-source research and experimental tooling. Enjoy the vibes responsibly!
+
+---
+
+## ⚖️ GitHub Disclaimer & Legal DMCA Policy
+
+> [!IMPORTANT]
+> **GitHub Repository Disclaimer:**
+> 1. **No Content Hosted:** This GitHub repository contains **only open-source Python and JavaScript application code**. It does NOT contain, host, store, mirror, link to, or distribute any media files, copyrighted videos, torrents, or pirated content of any kind.
+> 2. **Independent Open-Source Client Utility:** This project is an independent, non-commercial open-source utility developed for educational, interoperability, and personal research purposes.
+> 3. **No Affiliation:** This project is NOT affiliated with, sponsored by, endorsed by, or in any way officially connected with GitHub, Real-Debrid, AllDebrid, Premiumize, TorBox, Debrid-Link, LinkSnappy, Mega-Debrid, Deepbrid, High-Way, Seedr.cc, TeraBox, Pixeldrain, Stremio, or any of the third-party websites or services supported by the resolvers. All product names, trademarks, and registered trademarks belong to their respective owners.
+> 4. **Pure Web Client & Protocol Gateway:** The software acts solely as a client-side automation and unthrottling protocol gateway querying endpoints on the open internet, identical to a standard web browser or download manager.
+> 5. **Zero Media Ownership:** The authors, developers, and maintainers of this project do not own, control, maintain, or manage any of the scraped websites, hosters, content delivery networks (CDNs), or debrid providers supported by this tool.
+> 6. **User Responsibility:** Users are solely responsible for ensuring that their use of this software complies with all applicable local, national, and international laws, regulations, and third-party terms of service.
+> 7. **DMCA Takedown Compliance:** Because no media or infringing content is stored in this repository or on any servers operated by the authors, DMCA notices regarding external content should be directed to the third-party web host or file storage provider actually hosting the files. For concerns regarding repository source code, please open an Issue or contact the repository owner.
+
